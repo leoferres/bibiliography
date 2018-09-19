@@ -1,2 +1,2 @@
-# bibiliography
+# bibliography
 My bibliography
