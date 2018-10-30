@@ -8,6 +8,8 @@ We used the following command to generate an `html` file for "visual inspection"
 bibtex2html -a -noabstract -nokeywords bibliography.bib
 ```
 
+If you don't want to generate it yourself, you can find the current bibliography [here](http://leoferres.info/downloadables/bibliography.html)
+
 This is not a comprehensive bibliography, and may contain many errors. It's, however, a starting point.
 
 **NOTE**: This work was partly funded by [Data2X](https://www.data2x.org/big-data-challenge-awards/), done in collaboration with the ISI Foundation (Ciro Cattuto, Laetitia Gauvin, and Michele Tizzoni), the Data, Research and Policy Dept. at UNICEF (Natalia Adler), and The GovLab (Stefaan Verhulst, Andrew Young).
